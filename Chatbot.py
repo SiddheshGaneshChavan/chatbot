@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Define your Google API key
-API_KEY = "AIzaSyBacsmqylyAQhSXweJFZtRaRsl8OT3JWvA"
+API_KEY = "Your_API_KEY"
 
 # Function to make API call and get response
 # Function to make API call and get response
